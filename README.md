@@ -9,8 +9,12 @@
 
 ## 📸 Preview
 
-![acesse1]()
+![computador](computador.png)
 
+<div style="">
+  
+![mobile](mobile.png)
+</div>
 
 ## 
 Link do curso: 
